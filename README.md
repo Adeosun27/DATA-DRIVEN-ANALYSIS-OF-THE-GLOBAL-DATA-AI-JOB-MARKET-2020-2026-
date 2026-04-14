@@ -71,4 +71,8 @@ Microsoft Excel was used to design and develop this interactive dashboard for an
 8. **Job location type**: Over the years, the shift of job from onsite to Remote, noe hybrid is on the high side.
 
 
-9. **Job Hiring Urgency**: Over the years, the tech skill is one that high side since more industries are coming to the use of this skill for better efficiency of their work flow.  
+9. **Job Hiring Urgency**: Over the years, the tech skill is one that high side since more industries are coming to the use of this skill for better efficiency of their work flow.
+
+10.**Recommendation**:
+
+11. **Conclusion**: 
