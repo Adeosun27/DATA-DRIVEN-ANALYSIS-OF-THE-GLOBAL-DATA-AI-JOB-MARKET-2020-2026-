@@ -4,6 +4,16 @@
 ![](Introduction_Image.png)
 
 
+1. Introduction
+
+The period between 2020 and 2026 has seen an unprecedented surge in the demand for data-driven roles. Initially sparked by the digital acceleration of the pandemic, the market was further supercharged by the "Generative Al boom" of 2023-2024.
+Key highlights from the dataset include:
+ - **Market Growth**:The global Al market expanded from approximately **$103.6 billion in 2020** to nearly **$300 billion in 2026
+
+  - **Job Transformation**: While entry-level roles have become more competitive due to automation, the demand for *Senior* and *Mid-level* professionals remains at an all-time high.
+
+  - **Skill Shift**: Mastery of *Python* and *SQL* is now considered a "baseline" requirement, with the market shifting focus toward *Large Language Model (LLM) orchestration*, *AI Ethics*, and *Aaentic Workflows*
+
 ## ABOUT THE DATASET
 
 The AI & Data Science Job Market Dataset (2020–2026) is a synthetically generated dataset designed to simulate real-world hiring patterns across the artificial intelligence and data science 
