@@ -45,5 +45,9 @@ Microsoft Excel was used to design and develop this interactive dashboard for an
     - 2024 - 1,502 job postings
 
 5. **Variation in Education, Work Location, and Experience Level**: Across the different job titles and years, there were variations in:
-Education level (Bachelor's, Master's, PhD)
+   - Education level (Bachelor's, Master's, PhD)
+   - Work Location type (Remote, Onsite  Hybrid)
+   - Experience level(Entry,  Mid  Senior)
+*However, the differences observed werenot particularly significant. One possible explanation is that the dataset is synthetically generated, which may reduce the extent of real-world variation.
 
+6. **Countries Posting Data Analyst Roles**: 
