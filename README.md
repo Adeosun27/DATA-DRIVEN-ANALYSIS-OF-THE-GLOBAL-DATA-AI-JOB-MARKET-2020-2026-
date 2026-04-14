@@ -50,4 +50,25 @@ Microsoft Excel was used to design and develop this interactive dashboard for an
    - Experience level(Entry,  Mid  Senior)
 *However, the differences observed werenot particularly significant. One possible explanation is that the dataset is synthetically generated, which may reduce the extent of real-world variation.
 
-6. **Countries Posting Data Analyst Roles**: 
+6. **Countries Posting Data Analyst Roles**: Over the years, Data Analyst roles were posted across several countries,this includes:
+   - United Kingdom
+   - Canada
+   - Singapore
+   - United States of America
+   - Germany
+  
+
+7. **Industry Demand for Data Professionals**: Over the years, job postings came from various company categories and industries, showing that data professionals are increasingly in demand across multiple sectors. These industrie are:
+   - Finance
+   - Retail
+   - Healthcare
+   - Education
+   - Technology
+   - E-commerce
+*This suggests that the demand for data and AI is board and cross-industry, rather than being limited to only tech-focused companies.*
+
+  
+8. **Job location type**: Over the years, the shift of job from onsite to Remote, noe hybrid is on the high side.
+
+
+9. **Job Hiring Urgency**: Over the years, the tech skill is one that high side since more industries are coming to the use of this skill for better efficiency of their work flow.  
