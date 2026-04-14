@@ -25,20 +25,25 @@ Microsoft Excel was used to design and develop this interactive dashboard for an
 
 ## INSIGHTS 
 
-**Average Salary by Job Title:** Below is the average salary for the job titles posted over the 7-year perieriod:
-Data Analvst $99,136
-Data Scientist $99,646
-Data Engineer- $99,741
-Business Analyst-$101,642
-Machine Learning Engineer - $139,705
+1. **Average Salary by Job Title**:Below is the average salary for the job titles posted over the 7-year perieriod:
+   - Data Analvst $99,136
+   - Data Scientist $99,646
+   - Data Engineer- $99,741
+   - Business Analyst-$101,642
+   - Machine Learning Engineer - $139,705
+   - AI Engineer - $139,945
+*These figures are arranged in ascending order.*
 
-AI Engineer - $139,945
-These figures are arranged in ascending order.
-2. Total Number of Job Postings: The total number of jobs posted from 2020 to 2026 is 10,345.
-3. Lowest and Highest Job Posting Years: The years with the lowest and highest number of job postings were 2023 and 2024, respectively.
-2023 - 1,452 job postings
-2024 - 1,502 job postings
-4. Variation in Education, Work Location, and Experience Level: Across the different job titles and years, there were variations in:
+
+2. **Total Number of Job Postings**: The total number of jobs posted from 2020 to 2026 is 10,345.
+
+3. **Average Experience year**: 7years
+ 
+4. **Lowest and Highest Job Posting Years**: The years with the lowest and highest number of job postings were 2023 and 2024, respectively.
+   
+    - 2023 - 1,452 job postings
+    - 2024 - 1,502 job postings
+
+5. **Variation in Education, Work Location, and Experience Level**: Across the different job titles and years, there were variations in:
 Education level (Bachelor's, Master's, PhD)
 
-## RE
